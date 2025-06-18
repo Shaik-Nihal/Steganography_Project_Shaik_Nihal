@@ -37,7 +37,7 @@ A simple yet powerful GUI tool that enables you to hide and retrieve encrypted m
 
 ## 🖼 GUI Preview
 
-![GUI](https://your-image-link.png) <!-- Replace with a real image or remove -->
+![GUI](https://github.com/Shaik-Nihal/Steganography_Project_Shaik_Nihal/blob/main/assets/GUI.png) <!-- Replace with a real image or remove -->
 
 
 ---
